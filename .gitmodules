@@ -1,0 +1,6 @@
+[submodule "home/.dircolors.d/dircolors-solarized"]
+	path = home/.dircolors.d/dircolors-solarized
+	url = https://github.com/seebi/dircolors-solarized.git
+[submodule "home/.dircolors.d/dircolors-zenburn"]
+	path = home/.dircolors.d/dircolors-zenburn
+	url = https://github.com/ivoarch/dircolors-zenburn.git
