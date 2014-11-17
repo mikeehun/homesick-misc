@@ -4,3 +4,6 @@
 [submodule "home/.dircolors.d/dircolors-zenburn"]
 	path = home/.dircolors.d/dircolors-zenburn
 	url = https://github.com/ivoarch/dircolors-zenburn.git
+[submodule "home/.dircolors.d/dircolors-generator"]
+	path = home/.dircolors.d/dircolors-generator
+	url = https://github.com/Kidlike/dircolors.git
